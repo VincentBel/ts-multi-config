@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "outDir": "./build",
+    "lib": [
+      "es2017"
+    ],
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "declaration": true,
+    "sourceMap": true,
+    "baseUrl": "."
+  },
+  "include": [
+    "index.ts"
+  ]
+}
